@@ -97,15 +97,7 @@ h3{
 }
 
 
-@media (max-width:768px) {
-    
-    .counter{
-        width: 90%;
-        height: 90%;
-    }
-
-}
-
+ 
 
 @media (max-width:600px) {
 
@@ -113,6 +105,11 @@ h3{
         min-width: 90%;
         max-width: 90%;
         height: 90%;
+    }
+
+    button{
+        width:250px;
+        height:90px;
     }
 
 }
